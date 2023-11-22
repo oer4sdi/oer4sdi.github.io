@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Golos Text';
+    src: url('GolosText-VariableFont_wght.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Golos Text', Fallback, sans-serif;
+}
+
+h4 {
+    font-weight: 100;
+}
+
+h4 strong {
+    font-weight: 550;
+}
+
+a:link,
+a:visited {
+    color: #3959a8;
+}
+
+a:hover {
+    color: #1e3368;
+}
