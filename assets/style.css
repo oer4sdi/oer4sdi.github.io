@@ -23,3 +23,9 @@ a:visited {
 a:hover {
     color: #1e3368;
 }
+
+.oer-card {
+    width: 29.5%;
+    float: left;
+    margin: 1.5%;
+}
